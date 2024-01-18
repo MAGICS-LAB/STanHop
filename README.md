@@ -12,7 +12,7 @@ etc: `python3 run.py --data <data> --out_len <out_len>`.
 ```
 @inproceedings{
 wu2023stanhop,
-title={{ST}anHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction},
+title={STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction},
 author={Wu, Dennis and Hu, Jerry Yao-Chieh and Li, Weijian and Chen, Bo-Yu and Liu, Han},
 booktitle={The Twelfth International Conference on Learning Representations},
 year={2024},
